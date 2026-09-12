@@ -13,6 +13,5 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 <p>
-  <a href="https://github.com/samuelmarc"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=samuelmarc&langs_count=10&theme=dark_github&hide_title=true" height="150" alt="Top Langs"/></a>
   <a href="https://github.com/samuelmarc"><img src="https://github-stats-extended.vercel.app/api?username=samuelmarc&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Ccontributions&show_icons=true&include_all_commits=true&theme=dark_github&hide_title=true" height="150" alt="GitHub Stats"/></a>
 </p>
